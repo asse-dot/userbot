@@ -1,13 +1,13 @@
 [pyrogram]
-api_id = 123456
-api_hash = your-hash
+api_id = 15073774
+api_hash = f0d9876395c19d51bbd0da0ac86d71f0
 
 [mongo]
 is_atlas = false
 url = localhost
 db_name = userbot
-db_username =
-db_password =
+db_username = none
+db_password = none
 
 [pm_permit]
 pm_permit = false
